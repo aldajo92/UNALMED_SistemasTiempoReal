@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,windows,c++,macos,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,windows,c++,macos,linux
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,macos,windows,linux,c++
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode,macos,windows,linux,c++
 
 ### C++ ###
 # Prerequisites
@@ -85,6 +85,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -462,4 +473,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudio,windows,c++,macos,linux
+# End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,macos,windows,linux,c++
