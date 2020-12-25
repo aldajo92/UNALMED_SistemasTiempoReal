@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "/dev/tty.usbmodem14401",
+    "sketch": "arduino/robot_slave_rtos/robot_slave_rtos.ino"
+}

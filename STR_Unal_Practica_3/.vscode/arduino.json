@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbmodem142101",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "sketch": "src/project/03_challenge/03_challenge.ino"
+}
